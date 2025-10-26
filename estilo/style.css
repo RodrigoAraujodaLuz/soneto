@@ -44,7 +44,7 @@ section{
 
 section.imagem{
     height: 400px;
-    background: white url("/teste/imagens/vinicius.webp") left center no-repeat  ;
+    background: white url("/imagens/vinicius.webp") left center no-repeat  ;
     background-size: cover;
 }
 
